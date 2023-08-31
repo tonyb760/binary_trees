@@ -105,17 +105,3 @@ At the end of this project, We were able to undesrtand these questions:
 | [135-O](https://github.com/edward0rtiz/0x1D-binary_trees/blob/master/135-O)|
 
 
-## Additional info :construction:
-### Resources
-
-- GLIBC 2.24
-- gcc 4.8.4
-- betty linter 0.32
-- Valgrind
-
-
-### Try It On Your Machine :computer:	
-
-SORRY, DESPITE THE PROJECT IS FUNCTIONAL FOR EDUCATIONAL PURPOSES FOR YOU TO LEARN I AM NOT LEAVING IT AVAILABLE FOR TEST
-
-
